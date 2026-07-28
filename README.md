@@ -27,7 +27,5 @@ My goal is to transform creative ideas into optimized, functional and player foc
 
 ### 📫 Connect with me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234CAF50.svg?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://rodrigo-fretes.github.io/My-Portfolio/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%234CAF50.svg?style=for-the-badge&logo=gamepad&logoColor=white)](https://rodrigo-fretes.github.io/My-Portfolio/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%234CAF50.svg?style=for-the-badge&logo=codefactor&logoColor=white)](https://rodrigo-fretes.github.io/My-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-gabriel-fretes-marinelli/)
